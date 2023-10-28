@@ -11,7 +11,7 @@ https://github.com/lydrainbowcat/tedukuri
 https://github.com/EndlessCheng/codeforces-go
 
 ## Contents
-- 基本算法
+- 0x00 基本算法
   - 位运算
     - AcWing 89. a^b
     - AcWing 90. 64位整数乘法
@@ -61,7 +61,7 @@ https://github.com/EndlessCheng/codeforces-go
     - AcWing 125. 耍杂技的牛
     - AcWing 126. 最大的和
     - AcWing 127. 任务
-- 基本数据结构
+- 0x10 基本数据结构
   - 栈
     - AcWing 41. 包含min函数的栈
     - AcWing 128. 编辑器
@@ -107,7 +107,7 @@ https://github.com/EndlessCheng/codeforces-go
     - AcWing 161. 电话列表
     - AcWing 162. 黑盒子
     - AcWing 163. 生日礼物
-- 搜索
+- 0x20 搜索
   - 树与图的遍历
     - AcWing 164. 可达性统计
   - 深度优先搜索
@@ -149,7 +149,7 @@ https://github.com/EndlessCheng/codeforces-go
     - AcWing 193. 算乘方的牛
     - AcWing 194. 涂满它！
     - AcWing 195. 骑士精神
-- 数学知识
+- 0x30 数学知识
   - 质数
   - 约数
   - 同余
@@ -161,7 +161,7 @@ https://github.com/EndlessCheng/codeforces-go
   - 0/1分数规划
   - 博弈论之SG函数
   - 总结与练习
-- 数据结构进阶
+- 0x40 数据结构进阶
   - 并查集
   - 树状数组
   - 线段树
@@ -171,7 +171,7 @@ https://github.com/EndlessCheng/codeforces-go
   - 离线分治算法
   - 可持久化数据结构
   - 总结与练习
-- 动态规划
+- 0x50 动态规划
   - 线性DP
   - 背包
   - 区间DP
@@ -186,7 +186,7 @@ https://github.com/EndlessCheng/codeforces-go
   - 计数类DP
   - 数位统计DP
   - 总结与练习
-- 图论
+- 0x60 图论
   - 最短路
   - 最小生成树
   - 树的直径与最近公共祖先
