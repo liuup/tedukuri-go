@@ -122,7 +122,7 @@ https://github.com/EndlessCheng/codeforces-go
     - AcWing 171. 送礼物
   - 广度优先搜索
     - AcWing 172. 立体推箱子
-    - AcWing 173. 矩阵距离
+    - [AcWing 173. 矩阵距离](./0x20搜索/acwing173.go)
     - AcWing 174. 推箱子
   - 广搜变形
     - AcWing 175. 电路维修
