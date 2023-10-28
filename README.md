@@ -1,7 +1,7 @@
 # tedukuri-go
 《算法竞赛进阶指南》习题的Golang实现  
 
-所有习题均可在此练习与评测：
+所有习题均可在此练习与评测：  
 https://www.acwing.com/activity/content/6/
 
 ## 算法竞赛进阶指南官方资源
