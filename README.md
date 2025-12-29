@@ -14,7 +14,7 @@ https://github.com/EndlessCheng/codeforces-go
 ## Contents
 - 0x00 基本算法
   - 位运算
-    - AcWing 89. a^b
+    - [AcWing 89. a^b问题](./0x00%20基本算法/acwing89.go)
     - AcWing 90. 64位整数乘法
     - AcWing 91. 最短Hamilton路径
     - AcWing 998. 起床困难综合症
@@ -23,8 +23,8 @@ https://github.com/EndlessCheng/codeforces-go
     - AcWing 93. 递归实现组合型枚举
     - AcWing 94. 递归实现排列型枚举
     - AcWing 95. 费解的开关
-    - AcWing 96. 奇怪的汉诺塔
-    - AcWing 97. 约数之和
+    - [AcWing 96. 奇怪的汉诺塔](./0x00%20基本算法/acwing96.go)
+    - [AcWing 97. 约数之和](./0x00%20基本算法/acwing97.go)
     - AcWing 98. 分形之城
   - 前缀和与差分
     - AcWing 99. 激光炸弹
