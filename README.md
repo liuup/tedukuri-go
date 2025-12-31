@@ -29,7 +29,7 @@ https://github.com/EndlessCheng/codeforces-go
   - 前缀和与差分
     - [AcWing 99. 激光炸弹](./0x00%20基本算法/acwing99.go)
     - [AcWing 100. IncDec序列](./0x00%20基本算法/acwing100.go)
-    - AcWing 101. 最高的牛
+    - [AcWing 101. 最高的牛](./0x00%20基本算法/acwing101.go)
   - 二分
     - AcWing 102. 最佳牛围栏
     - AcWing 113. 特殊排序
