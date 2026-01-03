@@ -31,7 +31,7 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 100. IncDec序列](./0x00%20基本算法/acwing100.go)
     - [AcWing 101. 最高的牛](./0x00%20基本算法/acwing101.go)
   - 二分
-    - AcWing 102. 最佳牛围栏
+    - [AcWing 102. 最佳牛围栏](./0x00%20基本算法/acwing102.go)
     - AcWing 113. 特殊排序
   - 排序
     - AcWing 103. 电影
