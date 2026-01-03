@@ -27,15 +27,15 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 97. 约数之和](./0x00%20基本算法/acwing97.go)
     - AcWing 98. 分形之城
   - 前缀和与差分
-    - AcWing 99. 激光炸弹
-    - AcWing 100. IncDec序列
-    - AcWing 101. 最高的牛
+    - [AcWing 99. 激光炸弹](./0x00%20基本算法/acwing99.go)
+    - [AcWing 100. IncDec序列](./0x00%20基本算法/acwing100.go)
+    - [AcWing 101. 最高的牛](./0x00%20基本算法/acwing101.go)
   - 二分
     - AcWing 102. 最佳牛围栏
     - AcWing 113. 特殊排序
   - 排序
     - AcWing 103. 电影
-    - AcWing 104. 货仓选址
+    - [AcWing 104. 货仓选址](./0x00%20基本算法/acwing104.go)
     - AcWing 105. 七夕祭
     - AcWing 106. 动态中位数
     - AcWing 107. 超快速排序
