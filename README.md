@@ -38,7 +38,8 @@ https://github.com/EndlessCheng/codeforces-go
     - AcWing 105. 七夕祭
     - AcWing 106. 动态中位数
     - [AcWing 107. 超快速排序](./0x00%20基本算法/acwing107.go)
-    - AcWing 108. 奇数码问题
+    - [AcWing 108. 奇数码问题](./0x00%20基本算法/acwing108.go)
+      - [拓展题目：POJ2893 M x N Puzzle](./0x00%20基本算法/poj2893)
   - 倍增
     - AcWing 109. 天才ACM
   - 贪心
@@ -178,7 +179,7 @@ https://github.com/EndlessCheng/codeforces-go
   - 树形DP
   - 环形与后效性处理
   - 状态压缩DP
-    - [AcWing 91. 最短Hamilton路径](./0x00%20基本算法/acwing91.go)
+    - [AcWing 91. 最短Hamilton路径](./0x50%20动态规划/acwing91.go)
   - 倍增优化DP
   - 数据结构优化DP
   - 单调队列优化DP
