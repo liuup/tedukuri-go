@@ -15,11 +15,11 @@ https://github.com/EndlessCheng/codeforces-go
 - 0x00 基本算法
   - 位运算
     - [AcWing 89. a^b问题](./0x00%20基本算法/acwing89.go)
-    - AcWing 90. 64位整数乘法
-    - AcWing 91. 最短Hamilton路径
+    - [AcWing 90. 64位整数乘法](./0x00%20基本算法/acwing90.go)
+    - [AcWing 91. 最短Hamilton路径](./0x00%20基本算法/acwing91.go)
     - AcWing 998. 起床困难综合症
   - 递堆与递归
-    - AcWing 92. 递归实现指数型枚举
+    - [AcWing 92. 递归实现指数型枚举](./0x00%20基本算法/acwing92.go)
     - AcWing 93. 递归实现组合型枚举
     - AcWing 94. 递归实现排列型枚举
     - AcWing 95. 费解的开关
