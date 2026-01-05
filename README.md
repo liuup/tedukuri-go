@@ -16,7 +16,6 @@ https://github.com/EndlessCheng/codeforces-go
   - 位运算
     - [AcWing 89. a^b问题](./0x00%20基本算法/acwing89.go)
     - [AcWing 90. 64位整数乘法](./0x00%20基本算法/acwing90.go)
-    - [AcWing 91. 最短Hamilton路径](./0x00%20基本算法/acwing91.go)
     - AcWing 998. 起床困难综合症
   - 递堆与递归
     - [AcWing 92. 递归实现指数型枚举](./0x00%20基本算法/acwing92.go)
@@ -38,7 +37,7 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 104. 货仓选址](./0x00%20基本算法/acwing104.go)
     - AcWing 105. 七夕祭
     - AcWing 106. 动态中位数
-    - AcWing 107. 超快速排序
+    - [AcWing 107. 超快速排序](./0x00%20基本算法/acwing107.go)
     - AcWing 108. 奇数码问题
   - 倍增
     - AcWing 109. 天才ACM
@@ -179,6 +178,7 @@ https://github.com/EndlessCheng/codeforces-go
   - 树形DP
   - 环形与后效性处理
   - 状态压缩DP
+    - [AcWing 91. 最短Hamilton路径](./0x00%20基本算法/acwing91.go)
   - 倍增优化DP
   - 数据结构优化DP
   - 单调队列优化DP
