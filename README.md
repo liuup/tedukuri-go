@@ -15,11 +15,10 @@ https://github.com/EndlessCheng/codeforces-go
 - 0x00 基本算法
   - 位运算
     - [AcWing 89. a^b问题](./0x00%20基本算法/acwing89.go)
-    - AcWing 90. 64位整数乘法
-    - AcWing 91. 最短Hamilton路径
+    - [AcWing 90. 64位整数乘法](./0x00%20基本算法/acwing90.go)
     - AcWing 998. 起床困难综合症
   - 递堆与递归
-    - AcWing 92. 递归实现指数型枚举
+    - [AcWing 92. 递归实现指数型枚举](./0x00%20基本算法/acwing92.go)
     - AcWing 93. 递归实现组合型枚举
     - AcWing 94. 递归实现排列型枚举
     - AcWing 95. 费解的开关
@@ -32,20 +31,21 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 101. 最高的牛](./0x00%20基本算法/acwing101.go)
   - 二分
     - [AcWing 102. 最佳牛围栏](./0x00%20基本算法/acwing102.go)
-    - AcWing 113. 特殊排序
+    - [AcWing 113. 特殊排序](./0x00%20基本算法/acwing113.txt)
   - 排序
     - AcWing 103. 电影
     - [AcWing 104. 货仓选址](./0x00%20基本算法/acwing104.go)
     - AcWing 105. 七夕祭
     - AcWing 106. 动态中位数
-    - AcWing 107. 超快速排序
-    - AcWing 108. 奇数码问题
+    - [AcWing 107. 超快速排序](./0x00%20基本算法/acwing107.go)
+    - [AcWing 108. 奇数码问题](./0x00%20基本算法/acwing108.go)
+      - [拓展题目：POJ2893 M x N Puzzle](./0x00%20基本算法/poj2893)
   - 倍增
-    - AcWing 109. 天才ACM
+    - [AcWing 109. 天才ACM](./0x00%20基本算法/acwing109.go)
   - 贪心
-    - AcWing 1055. 股票买卖 II
-    - AcWing 110. 防晒
-    - AcWing 111. 畜栏预定
+    - [AcWing 1055. 股票买卖 II](./0x00%20基本算法/acwing1055.go)
+    - [AcWing 110. 防晒](./0x00%20基本算法/acwing110.go)
+    - [AcWing 111. 畜栏预定](./0x00%20基本算法/acwing111.go)
     - AcWing 112. 雷达设备
     - AcWing 114. 国王游戏
     - AcWing 115. 给树染色
@@ -123,7 +123,7 @@ https://github.com/EndlessCheng/codeforces-go
     - AcWing 171. 送礼物
   - 广度优先搜索
     - AcWing 172. 立体推箱子
-    - [AcWing 173. 矩阵距离](./0x20搜索/acwing173.go)
+    - [AcWing 173. 矩阵距离](./0x20%20搜索/acwing173.go)
     - AcWing 174. 推箱子
   - 广搜变形
     - AcWing 175. 电路维修
@@ -179,6 +179,7 @@ https://github.com/EndlessCheng/codeforces-go
   - 树形DP
   - 环形与后效性处理
   - 状态压缩DP
+    - [AcWing 91. 最短Hamilton路径](./0x50%20动态规划/acwing91.go)
   - 倍增优化DP
   - 数据结构优化DP
   - 单调队列优化DP
