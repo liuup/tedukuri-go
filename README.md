@@ -41,7 +41,7 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 108. 奇数码问题](./0x00%20基本算法/acwing108.go)
       - [拓展题目：POJ2893 M x N Puzzle](./0x00%20基本算法/poj2893)
   - 倍增
-    - AcWing 109. 天才ACM
+    - [AcWing 109. 天才ACM](./0x00%20基本算法/acwing109.go)
   - 贪心
     - AcWing 1055. 股票买卖 II
     - AcWing 110. 防晒
