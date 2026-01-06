@@ -43,8 +43,8 @@ https://github.com/EndlessCheng/codeforces-go
   - 倍增
     - [AcWing 109. 天才ACM](./0x00%20基本算法/acwing109.go)
   - 贪心
-    - AcWing 1055. 股票买卖 II
-    - AcWing 110. 防晒
+    - [AcWing 1055. 股票买卖 II](./0x00%20基本算法/acwing1055.go)
+    - [AcWing 110. 防晒](./0x00%20基本算法/acwing110.go)
     - AcWing 111. 畜栏预定
     - AcWing 112. 雷达设备
     - AcWing 114. 国王游戏
