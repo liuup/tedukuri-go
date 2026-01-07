@@ -50,16 +50,16 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 114. 国王游戏](./0x00%20基本算法/acwing114.go)
     - AcWing 115. 给树染色
   - 总结与练习
-    - AcWing 116. 飞行员兄弟
+    - [AcWing 116. 飞行员兄弟](./0x00%20基本算法/acwing116.go)
     - AcWing 117. 占卜DIY
-    - AcWing 118. 分形
+    - [AcWing 118. 分形](./0x00%20基本算法/acwing118.go)
     - AcWing 119. 袭击
     - AcWing 120. 防线
     - AcWing 121. 赶牛入圈
     - AcWing 122. 糖果传递
     - AcWing 123. 士兵
     - AcWing 124. 数的进制转换
-    - AcWing 125. 耍杂技的牛
+    - [AcWing 125. 耍杂技的牛](./0x00%20基本算法/acwing125.go)
     - AcWing 126. 最大的和
     - AcWing 127. 任务
 - 0x10 基本数据结构
