@@ -33,10 +33,10 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 102. 最佳牛围栏](./0x00%20基本算法/acwing102.go)
     - [AcWing 113. 特殊排序](./0x00%20基本算法/acwing113.txt)
   - 排序
-    - AcWing 103. 电影
+    - [AcWing 103. 电影](./0x00%20基本算法/acwing103.go)
     - [AcWing 104. 货仓选址](./0x00%20基本算法/acwing104.go)
-    - AcWing 105. 七夕祭
-    - AcWing 106. 动态中位数
+    - [AcWing 105. 七夕祭](./0x00%20基本算法/acwing105.go)
+    - [AcWing 106. 动态中位数](./0x00%20基本算法/acwing106.go)
     - [AcWing 107. 超快速排序](./0x00%20基本算法/acwing107.go)
     - [AcWing 108. 奇数码问题](./0x00%20基本算法/acwing108.go)
       - [拓展题目：POJ2893 M x N Puzzle](./0x00%20基本算法/poj2893)
