@@ -82,6 +82,11 @@ func conquer(l, r int) {
     // fmt.Println(mindist)
     // fmt.Println(l, r, tmp2)
     for i := 0; i < len(tmp2); i++ {
+        // 不要枚举太多，要不然肯能会被卡。
+        // 标称不卡的方式是直接不把它放到另一个数组里，
+        // 这种写法可以通过。不能按照标准的方法写，因为
+        // 那种方法依赖于 mindist 更新，但是有些数据
+        // 的时候不一定都可以更新。
         for j := i - 1; j >= 0 && j >= i - 7; j-- {
             update(tmp2[i], tmp2[j])
         }

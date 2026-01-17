@@ -54,9 +54,9 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 117. 占卜DIY](./0x00%20基本算法/acwing117.go)
     - [AcWing 118. 分形](./0x00%20基本算法/acwing118.go)
     - [AcWing 119. 袭击](./0x00%20基本算法/acwing119.go)
-    - AcWing 120. 防线
+    - [AcWing 120. 防线](./0x00%20基本算法/acwing120.go)
     - AcWing 121. 赶牛入圈
-    - AcWing 122. 糖果传递
+    - [AcWing 122. 糖果传递](./0x00%20基本算法/acwing122.go)
     - AcWing 123. 士兵
     - AcWing 124. 数的进制转换
     - [AcWing 125. 耍杂技的牛](./0x00%20基本算法/acwing125.go)
