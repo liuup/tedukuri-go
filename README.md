@@ -65,7 +65,7 @@ https://github.com/EndlessCheng/codeforces-go
 - 0x10 基本数据结构
   - 栈
     - [AcWing 41. 包含min函数的栈](./0x10%20基本数据结构/acwing41.txt)
-    - AcWing 128. 编辑器
+    - [AcWing 128. 编辑器](./0x10%20基本数据结构/acwing128.go)
     - AcWing 129. 火车进栈
     - AcWing 130. 火车进出栈问题
     - AcWing 131. 直方图中最大的矩形
