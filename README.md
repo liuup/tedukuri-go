@@ -60,11 +60,11 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 123. 士兵](./0x00%20基本算法/acwing123.go)
     - [AcWing 124. 数的进制转换](./0x00%20基本算法/acwing124.go)
     - [AcWing 125. 耍杂技的牛](./0x00%20基本算法/acwing125.go)
-    - AcWing 126. 最大的和
+    - [AcWing 126. 最大的和](./0x00%20基本算法/acwing126.go)
     - AcWing 127. 任务
 - 0x10 基本数据结构
   - 栈
-    - AcWing 41. 包含min函数的栈
+    - [AcWing 41. 包含min函数的栈](./0x10%20基本数据结构/acwing41.txt)
     - AcWing 128. 编辑器
     - AcWing 129. 火车进栈
     - AcWing 130. 火车进出栈问题
