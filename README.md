@@ -70,8 +70,8 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 130. 火车进出栈问题](./0x10%20基本数据结构/acwing130.go)
     - [AcWing 131. 直方图中最大的矩形](./0x10%20基本数据结构/acwing131.go)
   - 队列
-    - AcWing 132. 小组队列
-    - AcWing 133. 蚯蚓
+    - [AcWing 132. 小组队列](./0x10%20基本数据结构/acwing132.go)
+    - [AcWing 133. 蚯蚓](./0x10%20基本数据结构/acwing133.go)
     - AcWing 134. 双端队列
     - AcWing 135. 最大子序和
   - 链表与邻接表
