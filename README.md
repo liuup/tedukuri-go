@@ -48,30 +48,30 @@ https://github.com/EndlessCheng/codeforces-go
     - [AcWing 111. 畜栏预定](./0x00%20基本算法/acwing111.go)
     - [AcWing 112. 雷达设备](./0x00%20基本算法/acwing112.go)
     - [AcWing 114. 国王游戏](./0x00%20基本算法/acwing114.go)
-    - AcWing 115. 给树染色
+    - [AcWing 115. 给树染色](./0x00%20基本算法/acwing115.go)
   - 总结与练习
     - [AcWing 116. 飞行员兄弟](./0x00%20基本算法/acwing116.go)
-    - AcWing 117. 占卜DIY
+    - [AcWing 117. 占卜DIY](./0x00%20基本算法/acwing117.go)
     - [AcWing 118. 分形](./0x00%20基本算法/acwing118.go)
-    - AcWing 119. 袭击
-    - AcWing 120. 防线
-    - AcWing 121. 赶牛入圈
-    - AcWing 122. 糖果传递
-    - AcWing 123. 士兵
-    - AcWing 124. 数的进制转换
+    - [AcWing 119. 袭击](./0x00%20基本算法/acwing119.go)
+    - [AcWing 120. 防线](./0x00%20基本算法/acwing120.go)
+    - [AcWing 121. 赶牛入圈](./0x00%20基本算法/acwing121.go)
+    - [AcWing 122. 糖果传递](./0x00%20基本算法/acwing122.go)
+    - [AcWing 123. 士兵](./0x00%20基本算法/acwing123.go)
+    - [AcWing 124. 数的进制转换](./0x00%20基本算法/acwing124.go)
     - [AcWing 125. 耍杂技的牛](./0x00%20基本算法/acwing125.go)
-    - AcWing 126. 最大的和
+    - [AcWing 126. 最大的和](./0x00%20基本算法/acwing126.go)
     - AcWing 127. 任务
 - 0x10 基本数据结构
   - 栈
-    - AcWing 41. 包含min函数的栈
-    - AcWing 128. 编辑器
-    - AcWing 129. 火车进栈
-    - AcWing 130. 火车进出栈问题
-    - AcWing 131. 直方图中最大的矩形
+    - [AcWing 41. 包含min函数的栈](./0x10%20基本数据结构/acwing41.txt)
+    - [AcWing 128. 编辑器](./0x10%20基本数据结构/acwing128.go)
+    - [AcWing 129. 火车进栈](./0x10%20基本数据结构/acwing129.go)
+    - [AcWing 130. 火车进出栈问题](./0x10%20基本数据结构/acwing130.go)
+    - [AcWing 131. 直方图中最大的矩形](./0x10%20基本数据结构/acwing131.go)
   - 队列
-    - AcWing 132. 小组队列
-    - AcWing 133. 蚯蚓
+    - [AcWing 132. 小组队列](./0x10%20基本数据结构/acwing132.go)
+    - [AcWing 133. 蚯蚓](./0x10%20基本数据结构/acwing133.go)
     - [AcWing 134. 双端队列](./0x00%20基本算法/acwing134.go)
     - AcWing 135. 最大子序和
   - 链表与邻接表
