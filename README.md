@@ -72,12 +72,12 @@ https://github.com/EndlessCheng/codeforces-go
   - 队列
     - [AcWing 132. 小组队列](./0x10%20基本数据结构/acwing132.go)
     - [AcWing 133. 蚯蚓](./0x10%20基本数据结构/acwing133.go)
-    - AcWing 134. 双端队列
-    - AcWing 135. 最大子序和
+    - [AcWing 134. 双端队列](./0x00%20基本算法/acwing134.go)
+    - [AcWing 135. 最大子序和](./0x00%20基本算法/acwing135.go)
   - 链表与邻接表
-    - AcWing 136. 邻值查找
+    - [AcWing 136. 邻值查找](./0x00%20基本算法/acwing136.go)
   - Hash
-    - AcWing 137. 雪花雪花雪花
+    - [AcWing 137. 雪花雪花雪花](./0x00%20基本算法/acwing137.go)
     - AcWing 138. 兔子与兔子
     - AcWing 139. 回文子串的最大长度
     - AcWing 140. 后缀数组
